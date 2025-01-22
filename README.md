@@ -1,8 +1,9 @@
 + Electrical & Computer Engineer
 + AWS Summer Intern 2024 - ASIC Hardware Dev Engineering (Summer 2024)
 + Graduate Research Assistant (GRA) at SMART Lab, Wright State Univ - Ohio, USA. (2023 - Present)
-+ Persuing Masters' in Computer Engineering (2023 - Present)
 + Former Embedded & Automation Engineer at Sincos Automation Tech Limited. (2021 - 2023)
++ Persuing Masters' in Computer Engineering (2023 - Present)
++ Bachelor's in Electrical Engineering (2016 ~ 2021)
 
 <sub>**Areas of Exparties:**
 Embedded Systems (AVR, STM32, ESP) | IoT | PCB Design (kiCAD, Eagle, Proteus) | TinyML | Machine Learning and more.</sub>
