@@ -1,9 +1,10 @@
 + Electrical & Computer Engineer
++ ASIC Hardware Dev Engineer at Annapurna Labs - Amazon Web Services. (2025 - Present)
 + AWS Summer Intern 2024 - ASIC Hardware Dev Engineering (Summer 2024)
-+ Graduate Research Assistant (GRA) at SMART Lab, Wright State Univ - Ohio, USA. (2023 - Present)
++ Graduate Research Assistant (GRA) at SMART Lab, Wright State Univ - Ohio, USA. (2023 - 2025)
 + Former Embedded & Automation Engineer at Sincos Automation Tech Limited. (2021 - 2023)
-+ Persuing Masters' in Computer Engineering (2023 - Present)
-+ Bachelor's in Electrical Engineering (2016 ~ 2021)
++ Master's in Computer Engineering (2023 - 2025)
++ Bachelor's in Electrical Engineering (2016 - 2021)
 
 <sub>**Areas of Exparties:**
 Embedded Systems (AVR, STM32, ESP) | IoT | PCB Design (kiCAD, Eagle, Proteus) | TinyML | Machine Learning and more.</sub>
